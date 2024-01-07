@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Villon</h1>
+<h1 align="center">Hey there 👋, I'm Luis Villon</h1>
 <h3 align="center">A passionate for data, science and technology</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
