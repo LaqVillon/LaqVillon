@@ -17,6 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Anaconda" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img align="center" alt="Rafa-Pandas" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Seaborn" height="100" width="100" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
   <img align="center" alt="Scikit_learn" height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
