@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 💬 Ask me about **Data analysis, Artificial Intelligence, Computer Architecture**
+- 💬 Ask me about **Data analysis, Artificial Intelligence, Computer Architecture, Physics**
 
 - 📫 How to reach me: **lvillon@coppe.ufrj.br**
 
