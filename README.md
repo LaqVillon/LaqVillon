@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luis-villon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis villon" height="30" width="40" /></a>
-</p>
+  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-villon)</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
@@ -28,5 +28,5 @@
   <img align="center" alt="Rafa-Amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div><br> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaqVillon&layout=compact"/> <br> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaqVillon&layout=compact&theme=dark"/> <br> 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=LaqVillon&show_icons=true"/> <br> -->
