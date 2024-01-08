@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Luis Villon</h1>
 <h3 align="center">A passionate for data, science and technology</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 💬 Ask me about **Data analysis, computer architecture**
+- 💬 Ask me about **Data analysis, Artificial Intelligence, Computer Architecture**
 
 - 📫 How to reach me: **lvillon@coppe.ufrj.br**
 
