@@ -15,6 +15,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-villon)</p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Anaconda" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
@@ -30,5 +31,5 @@
   <img align="center" alt="Rafa-Amazonwebservices" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div><br> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaqVillon&layout=compact&theme=dark"/> <br> 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaqVillon&layout=compact&theme=dark"/> <br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=LaqVillon&show_icons=true"/> <br> -->
