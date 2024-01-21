@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Luis Villon</h1>
 <h3 align="center">A passionate for data, science and technology</h3>
 
-- 🌱 I’m currently working with **Machine Learning, Data Science and Data Science Modeling**
+- 🌱 I’m currently working with **Machine Learning, Data Science and Data Modeling**
 
 - 💬 Ask me about **Data analysis, Artificial Intelligence, Computer Architecture, Physics**
 
-- 📫 How to reach me: **lvillon@coppe.ufrj.br**
+- 📫 You can reach me at: **lvillon@coppe.ufrj.br**, **luisvillon@id.uff.br**
 
 <!-- - 📄 Know about my experiences [www.linkedin.com/in/luis-villon](www.linkedin.com/in/luis-villon) -->
 
@@ -28,8 +28,11 @@
   <img align="center" alt="Rafa-Bash" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Rafa-Linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Postgresql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+  <img align="center" alt="Rafa-Sqlitel" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"> 
   <img align="center" alt="Rafa-Amazonwebservices" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div><br> 
+
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaqVillon&layout=compact&theme=dark"/> <br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=LaqVillon&show_icons=true"/> <br> -->
