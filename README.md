@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Luis Villon</h1>
 <h3 align="center">A passionate for data, science and technology</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently working with **Machine Learning, Data Science and Data Science Modeling**
 
 - 💬 Ask me about **Data analysis, Artificial Intelligence, Computer Architecture, Physics**
 
