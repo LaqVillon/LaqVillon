@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **Machine Learning, Data Science and Data Modeling**
 
-- 💬 We can talk about **Python, Data analysis, Artificial Intelligence, Computer Architecture, Physics**
+- 💬 We can talk about **Data analysis, Artificial Intelligence, Computer Architecture, High Performance Computing, Physics**
 
 - 📫 You can reach me at: **lvillon@coppe.ufrj.br**, **luisvillon@id.uff.br**
 
